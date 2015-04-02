@@ -1,0 +1,9 @@
+2 g 4 i 5 h
+3 i 5 g 4 h
+4 c 2 i 5 f
+6 e 9 c 2 g
+7 c 2 i 5 f
+8 e 9 g 4 c
+9 c 2 g 4 e
+5 b 3 g 4 f 9 h
+5 b 3 g 4 f 8 i.
